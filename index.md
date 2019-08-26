@@ -1,6 +1,6 @@
-# Cuong Nguyen's First CS193 Homework
+# _Cuong Nguyen's First CS193 Homework_
 ## Why I ♥ CS193
 
 - dsad
--dsadsad
--dasf
+- dsadsad
+- dasf
